@@ -16,12 +16,12 @@
   "devDependencies": {
     "lite-server": "^2.6.1",
     "onchange": "^3.3.0",
+    "node-sass": "^9.0.0",
     "parallelshell": "^3.0.1"
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
     "jquery": "^3.4.1",
-    "node-sass": "^9.0.0",
     "popper.js": "^1.12.9"
   }
 }
